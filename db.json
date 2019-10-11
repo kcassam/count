@@ -1,0 +1,217 @@
+{
+  "data": [
+    {
+      "name": "Chauffage",
+      "unity": "kwh",
+      "cumul": {
+        "value": 54,
+        "from": "YYYY-MM-DD",
+        "to": "YYYY-MM-DD"
+      },
+      "day": [
+        {
+          "date": "YYYY-MM-DD",
+          "value": 12
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 13
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 11
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 10
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 9
+        }
+      ],
+      "month": [
+        {
+          "date": "YYYY-MM-DD",
+          "value": 320
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 300
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 289
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 189
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 209
+        }
+      ]
+    },
+    {
+      "name": "Electricité",
+      "unity": "kwh",
+      "cumul": {
+        "value": 54,
+        "from": "YYYY-MM-DD",
+        "to": "YYYY-MM-DD"
+      },
+      "day": [
+        {
+          "date": "YYYY-MM-DD",
+          "value": 12
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 13
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 11
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 10
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 9
+        }
+      ],
+      "month": [
+        {
+          "date": "YYYY-MM-DD",
+          "value": 320
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 300
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 289
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 189
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 209
+        }
+      ]
+    },
+    {
+      "name": "Eau",
+      "unity": "litre",
+      "cumul": {
+        "value": 54,
+        "from": "YYYY-MM-DD",
+        "to": "YYYY-MM-DD"
+      },
+      "day": [
+        {
+          "date": "YYYY-MM-DD",
+          "value": 12
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 13
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 11
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 10
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 9
+        }
+      ],
+      "month": [
+        {
+          "date": "YYYY-MM-DD",
+          "value": 320
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 300
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 289
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 189
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 209
+        }
+      ]
+    },
+    {
+      "name": "Humidité",
+      "unity": "%",
+      "cumul": {
+        "value": 54,
+        "from": "YYYY-MM-DD",
+        "to": "YYYY-MM-DD"
+      },
+      "day": [
+        {
+          "date": "YYYY-MM-DD",
+          "value": 12
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 13
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 11
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 10
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 9
+        }
+      ],
+      "month": [
+        {
+          "date": "YYYY-MM-DD",
+          "value": 30
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 12
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 12
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 12
+        },
+        {
+          "date": "YYYY-MM-DD",
+          "value": 12
+        }
+      ]
+    }
+  ],
+  "success": true
+}
