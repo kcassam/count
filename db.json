@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "name": "Chauffage",
+      "enum": "ELECTRICITY HEATING",
       "unity": "kwh",
-      "cumul": {
+      "aggregate": {
         "value": 54,
         "from": "YYYY-MM-DD",
         "to": "YYYY-MM-DD"
       },
-      "day": [
+      "P1D": [
         {
           "date": "YYYY-MM-DD",
           "value": 12
@@ -30,7 +30,7 @@
           "value": 9
         }
       ],
-      "month": [
+      "P1M": [
         {
           "date": "YYYY-MM-DD",
           "value": 320
@@ -54,14 +54,14 @@
       ]
     },
     {
-      "name": "Electricité",
+      "enum": "ELECTRICITY",
       "unity": "kwh",
-      "cumul": {
+      "aggregate": {
         "value": 54,
         "from": "YYYY-MM-DD",
         "to": "YYYY-MM-DD"
       },
-      "day": [
+      "P1D": [
         {
           "date": "YYYY-MM-DD",
           "value": 12
@@ -83,7 +83,7 @@
           "value": 9
         }
       ],
-      "month": [
+      "P1M": [
         {
           "date": "YYYY-MM-DD",
           "value": 320
@@ -107,14 +107,14 @@
       ]
     },
     {
-      "name": "Eau",
-      "unity": "litre",
-      "cumul": {
+      "enum": "WATER",
+      "unity": "l",
+      "aggregate": {
         "value": 54,
         "from": "YYYY-MM-DD",
         "to": "YYYY-MM-DD"
       },
-      "day": [
+      "P1D": [
         {
           "date": "YYYY-MM-DD",
           "value": 12
@@ -136,7 +136,7 @@
           "value": 9
         }
       ],
-      "month": [
+      "P1M": [
         {
           "date": "YYYY-MM-DD",
           "value": 320
@@ -160,14 +160,14 @@
       ]
     },
     {
-      "name": "Humidité",
+      "enum": "HUMIDITY",
       "unity": "%",
-      "cumul": {
+      "aggregate": {
         "value": 54,
         "from": "YYYY-MM-DD",
         "to": "YYYY-MM-DD"
       },
-      "day": [
+      "P1D": [
         {
           "date": "YYYY-MM-DD",
           "value": 12
@@ -189,7 +189,7 @@
           "value": 9
         }
       ],
-      "month": [
+      "P1M": [
         {
           "date": "YYYY-MM-DD",
           "value": 30
